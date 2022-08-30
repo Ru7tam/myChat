@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716847171718",
+    "firebase_url": "https://mychat-777-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-777",
+    "storage_bucket": "mychat-777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716847171718:android:0fa4a05f1f7438c5f8e907",
+        "android_client_info": {
+          "package_name": "com.example.fbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716847171718-3dbo807h7c92vq7rbtjd364uucs30l09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbchat",
+            "certificate_hash": "6e5d1aadfcc6ee75dced2638660bddb482813f70"
+          }
+        },
+        {
+          "client_id": "716847171718-6bcu4k4evqi3e7dhqklnh5oougg8btcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQpwDcE0bDfReoA12KU41rB2l7x8sU2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716847171718-6bcu4k4evqi3e7dhqklnh5oougg8btcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
